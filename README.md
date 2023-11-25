@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Am0gha
 - 👀 I’m interested in coding and gaming
-- 🌱 I’m currently learning Ai & ML
+- 🌱 I’m currently learning AI & ML
 - 💞️ I’m looking to collaborate on nothing
 - 📫 How to reach me ...
 
