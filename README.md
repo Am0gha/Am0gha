@@ -2,7 +2,7 @@
 - 👀 I’m interested in coding and gaming
 - 🌱 I’m currently learning AI & ML
 - 💞️ I’m looking to collaborate on nothing
-- 📫 How to reach me ...
+- 📫 How to reach me amogh462@gmail.com
 
 <!---
 Am0gha/Am0gha is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
